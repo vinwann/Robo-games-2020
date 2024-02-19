@@ -6,7 +6,8 @@
 The goal of the robot is to navigate to the green box and get back to the start of the maze in the shortest time possible. Along the path are humans infected with COVID-19 the robot should avoid them. All humans wear a red colored t-shirt which was used to detect the humans. The blue blob represents sanitizers and the robot should collect them to reduce the infection level.
 
 The project is done in Webots 2020B and python
-OpenCV was not used and the image processing algorithm was made from scratch 
+
+OpenCV was NOT used and the image processing algorithm was made from scratch 
 
 ## Image processing
 
